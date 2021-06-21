@@ -8,9 +8,22 @@
     "start": "next start"
   },
   "dependencies": {
+    "@reach/auto-id": "^0.15.0",
+    "casual": "^1.6.2",
+    "hast-util-has-property": "^2.0.0",
+    "hast-util-to-string": "^1.0.4",
     "next": "11.0.0",
+    "next-transpile-modules": "^8.0.0",
+    "prism-react-renderer": "^1.2.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "rehype": "^11.0.0",
+    "rehype-parse": "^7.0.1",
+    "rehype-react": "^6.2.0",
+    "rehype-sanitize": "^4.0.0",
+    "unified": "^9.2.1",
+    "unist-util-visit": "^3.1.0",
+    "use-editable": "^2.3.3"
   },
   "devDependencies": {
     "@types/react": "^17.0.11",
